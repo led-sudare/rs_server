@@ -1,0 +1,6 @@
+{
+    "//comment": "rs_capture PUB Bind Address :  任意のIPとポートを指定する",
+    "RSPubBind": "192.168.1.12:5501",
+    "//comment": "cube_adapter SUB Bind Address : 任意のIPとポートを指定する",
+    "AdapterSubBind": "192.168.1.12:5520"
+}
